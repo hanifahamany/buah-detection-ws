@@ -1,0 +1,12 @@
+data.yaml
+*.log
+
+__pycache__/
+*.pyc
+
+runs/
+*.pt
+
+venv/
+
+dataset-buah/
