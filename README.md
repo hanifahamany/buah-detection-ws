@@ -21,8 +21,7 @@ Dataset yang digunakan berasal dari proyek **Fruits by YOLO**:
 * **GPU:** Radeon Graphics 2.1 GHz *(Training dilakukan menggunakan Google Colab GPU Tesla T4)*
 
 ## 🚀 Google Colab Training
-Script dan proses training model dilakukan secara cloud melalui Google Colab:
-* [Google Colab Notebook Link](https://colab.research.google.com/drive/1tztRwT92JvGTtVOg8jdAoXMJ4t9fHmzp?usp=sharing)
+Script dan proses training model dilakukan secara cloud melalui [Google Colab](https://colab.research.google.com/drive/1tztRwT92JvGTtVOg8jdAoXMJ4t9fHmzp?usp=sharing)
 
 ## 📁 Struktur Direktori Proyek
 
