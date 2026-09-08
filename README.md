@@ -1,4 +1,4 @@
-# Buah Detection Workspace
+# AI Training: Fruit Detection
 
 Sistem Object Detection berbasis Artificial Intelligence menggunakan **YOLO (Ultralytics)** untuk mendeteksi dan mengklasifikasikan berbagai jenis buah.
 
@@ -14,7 +14,7 @@ Dataset yang digunakan dalam proyek ini bersumber dari [Fruits by YOLO Detection
 
 ## 🚀 Google Colab Training
 Script dan proses training model dilakukan secara cloud melalui Google Colab:
-* 👉 [Google Colab Notebook Link](https://colab.research.google.com/drive/1tztRwT92JvGTtVOg8jdAoXMJ4t9fHmzp?usp=sharing)
+* [Google Colab Notebook Link](https://colab.research.google.com/drive/1tztRwT92JvGTtVOg8jdAoXMJ4t9fHmzp?usp=sharing)
 
 ## 📁 Struktur Direktori Proyek
 
@@ -28,7 +28,7 @@ buah-detection-ws/
 │       └── buah_model/           # Hasil output training model YOLO
 │           └── weights/
 │               └── best.pt       # Bobot model terbaik hasil training
-├── .gitignore                    # Berkas pengecualian file/folder untuk Git
+├── .gitignore                    
 ├── inference-1.py                # Script Inference untuk path gambar manual
 ├── inference-2.py                # Script Inference dengan pengambilan gambar acak
 ├── README.md                     # Dokumentasi proyek
