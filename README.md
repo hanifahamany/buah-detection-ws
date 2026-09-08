@@ -1,7 +1,10 @@
 # buah-detection-ws
 Detail
 
+Dataset: [Fruits by YOLO Detection Dataset](https://www.kaggle.com/datasets/kapturovalexander/fruits-by-yolo-fruits-detection).
+
 buah-detection-ws/
+
 ├── dataset-buah/                 # dataset (Train, Valid, Test)
 │   └── test/
 │       └── images/              
