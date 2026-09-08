@@ -1,0 +1,4 @@
+# Model ini di-training di Google Colab
+
+# Link Google Colab: https://colab.research.google.com/drive/1tztRwT92JvGTtVOg8jdAoXMJ4t9fHmzp?usp=sharing
+
