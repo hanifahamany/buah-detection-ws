@@ -18,10 +18,10 @@ Dataset yang digunakan berasal dari proyek **Fruits by YOLO**:
 * **Processor:** AMD Ryzen 5 5500U
 * **RAM:** 16 GB
 * **Storage:** 256 GB
-* **GPU:** Radeon Graphics 2.1 GHz *(Training dilakukan menggunakan Google Colab GPU Tesla T4)*
+* **GPU:** Radeon Graphics 2.1 GHz *(Training model dilakukan menggunakan Google Colab GPU Tesla T4)*
 
 ## 🚀 Google Colab Training
-Script dan proses training model dilakukan secara cloud melalui [Google Colab](https://colab.research.google.com/drive/1tztRwT92JvGTtVOg8jdAoXMJ4t9fHmzp?usp=sharing)
+Script dan proses training model dapat diakses melalui [Google Colab](https://colab.research.google.com/drive/1tztRwT92JvGTtVOg8jdAoXMJ4t9fHmzp?usp=sharing)
 
 ## 📁 Struktur Direktori Proyek
 
