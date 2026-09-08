@@ -1,9 +1,9 @@
 # AI Training: Fruit Detection
 
-Sistem Object Detection berbasis Artificial Intelligence menggunakan **YOLO (Ultralytics)** untuk mendeteksi dan mengklasifikasikan berbagai jenis buah.
-
 ## 📊 Dataset
-Dataset yang digunakan dalam proyek ini bersumber dari [Fruits by YOLO Detection Dataset di Kaggle](https://www.kaggle.com/datasets/kapturovalexander/fruits-by-yolo-fruits-detection).
+Dataset yang digunakan berasal dari proyek **Fruits by YOLO**:
+* [Roboflow Universe - Fruits by YOLO Dataset](https://universe.roboflow.com/fruitsdetection/fruits-by-yolo/dataset/1)
+* [Kaggle - Fruits by YOLO Detection Dataset](https://www.kaggle.com/datasets/kapturovalexander/fruits-by-yolo-fruits-detection)
 
 ## 💻 Environment & Spesifikasi Perangkat
 * **OS:** Windows 11 64-bit
