@@ -6,13 +6,21 @@ Dataset: [Fruits by YOLO Detection Dataset](https://www.kaggle.com/datasets/kapt
 buah-detection-ws/
 
 ├── dataset-buah/                 # dataset (Train, Valid, Test)
+
 │       test/
-│       images/              
+
+│       images/         
+
 ├── runs/
+
 │       detect/
+
 │           buah_model/           # output training model YOLO
+
 │               weights/
+
 │                   best.pt       # model terbaik hasil training
+
 ├── .gitignore                    
 ├── inference-1.py                # Script Inference untuk path gambar manual
 ├── inference-2.py                # Script Inference dengan pengambilan gambar acak
