@@ -5,6 +5,14 @@ Dataset yang digunakan berasal dari proyek **Fruits by YOLO**:
 * [Roboflow Universe - Fruits by YOLO Dataset](https://universe.roboflow.com/fruitsdetection/fruits-by-yolo/dataset/1)
 * [Kaggle - Fruits by YOLO Detection Dataset](https://www.kaggle.com/datasets/kapturovalexander/fruits-by-yolo-fruits-detection)
 
+## 🛠️ Tools
+* **Bahasa pemrograman:** Python
+* **Framework object detection:** Ultralytics YOLOv8
+* **Deep learning framework:** PyTorch
+* **Computer vision library:** OpenCV (`cv2`)
+* **GUI/window library:** OpenCV HighGUI (`cv2.imshow`, `cv2.waitKey`, `cv2.destroyAllWindows`)
+* **Training environment:** Google Colab dengan GPU Tesla T4
+
 ## 💻 Environment & Spesifikasi Perangkat
 * **OS:** Windows 11 64-bit
 * **Processor:** AMD Ryzen 5 5500U
