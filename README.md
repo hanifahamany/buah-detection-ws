@@ -1,10 +1,5 @@
 # AI Training: Fruit Detection
 
-## 📊 Dataset
-Dataset yang digunakan berasal dari proyek **Fruits by YOLO**:
-* [Roboflow Universe - Fruits by YOLO Dataset](https://universe.roboflow.com/fruitsdetection/fruits-by-yolo/dataset/1)
-* [Kaggle - Fruits by YOLO Detection Dataset](https://www.kaggle.com/datasets/kapturovalexander/fruits-by-yolo-fruits-detection)
-
 ## 🛠️ Tech Stack
 * **Bahasa pemrograman:** Python
 * **Framework object detection:** Ultralytics YOLOv8
@@ -19,6 +14,11 @@ Dataset yang digunakan berasal dari proyek **Fruits by YOLO**:
 * **RAM:** 16 GB
 * **Storage:** 256 GB
 * **GPU:** Radeon Graphics 2.1 GHz *(Training model dilakukan menggunakan Google Colab GPU Tesla T4)*
+
+## 📊 Dataset
+Dataset yang digunakan berasal dari proyek **Fruits by YOLO**:
+* [Roboflow Universe - Fruits by YOLO Dataset](https://universe.roboflow.com/fruitsdetection/fruits-by-yolo/dataset/1)
+* [Kaggle - Fruits by YOLO Detection Dataset](https://www.kaggle.com/datasets/kapturovalexander/fruits-by-yolo-fruits-detection)
 
 ## 🚀 Google Colab Training
 Script dan proses training model dapat diakses melalui [Google Colab](https://colab.research.google.com/drive/1tztRwT92JvGTtVOg8jdAoXMJ4t9fHmzp?usp=sharing)
