@@ -5,7 +5,7 @@ Dataset yang digunakan berasal dari proyek **Fruits by YOLO**:
 * [Roboflow Universe - Fruits by YOLO Dataset](https://universe.roboflow.com/fruitsdetection/fruits-by-yolo/dataset/1)
 * [Kaggle - Fruits by YOLO Detection Dataset](https://www.kaggle.com/datasets/kapturovalexander/fruits-by-yolo-fruits-detection)
 
-## 🛠️ Tools
+## 🛠️ Tech Stack
 * **Bahasa pemrograman:** Python
 * **Framework object detection:** Ultralytics YOLOv8
 * **Deep learning framework:** PyTorch
