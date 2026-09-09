@@ -17,8 +17,8 @@
 
 ## 📊 Dataset
 Dataset yang digunakan berasal dari proyek **Fruits by YOLO**:
-* [Roboflow Universe - Fruits by YOLO Dataset](https://universe.roboflow.com/fruitsdetection/fruits-by-yolo/dataset/1)
 * [Kaggle - Fruits by YOLO Detection Dataset](https://www.kaggle.com/datasets/kapturovalexander/fruits-by-yolo-fruits-detection)
+* [Roboflow Universe - Fruits by YOLO Dataset](https://universe.roboflow.com/fruitsdetection/fruits-by-yolo/dataset/1)
 
 ## 🚀 Google Colab Training
 Script dan proses training model dapat diakses melalui [Google Colab](https://colab.research.google.com/drive/1tztRwT92JvGTtVOg8jdAoXMJ4t9fHmzp?usp=sharing)
